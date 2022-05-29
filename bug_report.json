@@ -1,1 +1,10 @@
-first changes attempt
+{
+ 
+ "bug report":{
+ "ID":1234,
+ "project":"asap",
+ "priority":"normal",
+ "platform":"Google Chrome"}
+
+}
+
